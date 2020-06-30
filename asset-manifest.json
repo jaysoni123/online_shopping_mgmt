@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/online_shopping_mgmt/static/css/main.22678f59.chunk.css",
+    "main.js": "/online_shopping_mgmt/static/js/main.5a7836a4.chunk.js",
+    "main.js.map": "/online_shopping_mgmt/static/js/main.5a7836a4.chunk.js.map",
+    "runtime-main.js": "/online_shopping_mgmt/static/js/runtime-main.63d303db.js",
+    "runtime-main.js.map": "/online_shopping_mgmt/static/js/runtime-main.63d303db.js.map",
+    "static/js/2.20e71985.chunk.js": "/online_shopping_mgmt/static/js/2.20e71985.chunk.js",
+    "static/js/2.20e71985.chunk.js.map": "/online_shopping_mgmt/static/js/2.20e71985.chunk.js.map",
+    "index.html": "/online_shopping_mgmt/index.html",
+    "precache-manifest.839c7ffaa8bd65bf7268689d31f2af67.js": "/online_shopping_mgmt/precache-manifest.839c7ffaa8bd65bf7268689d31f2af67.js",
+    "service-worker.js": "/online_shopping_mgmt/service-worker.js",
+    "static/css/main.22678f59.chunk.css.map": "/online_shopping_mgmt/static/css/main.22678f59.chunk.css.map",
+    "static/js/2.20e71985.chunk.js.LICENSE.txt": "/online_shopping_mgmt/static/js/2.20e71985.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63d303db.js",
+    "static/js/2.20e71985.chunk.js",
+    "static/css/main.22678f59.chunk.css",
+    "static/js/main.5a7836a4.chunk.js"
+  ]
+}
